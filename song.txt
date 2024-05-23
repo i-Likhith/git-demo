@@ -1,2 +1,4 @@
 hi 
 i am using git
+hello
+this is awesome
