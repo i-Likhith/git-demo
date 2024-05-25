@@ -7,3 +7,5 @@ i am using git gui method to upload my data
 learning how a merge works.
 
 now learning the master.
+
+for tags
