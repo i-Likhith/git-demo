@@ -5,4 +5,4 @@ this is awesome
 
 i am using git gui method to upload my data
 
-Hunter 350 & Honda h'ness 350
+Hunter 350 & Honda h'ness 350.
