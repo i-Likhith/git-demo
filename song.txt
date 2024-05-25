@@ -4,3 +4,5 @@ hello
 this is awesome
 
 i am using git gui method to upload my data
+
+this is nice working with git.
